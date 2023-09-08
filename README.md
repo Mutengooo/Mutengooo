@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mutengooo
-- 👀 I’m interested in visual basic, css, html and python
-- 🌱 I’m currently learning programming techniques
-- 💞️ I’m looking to collaborate on visual basic
+- 👀 I’m interested in R and Data Science and Statistics
+- 🌱 I’m currently learning Data analytics
+- 💞️ I’m looking to collaborate in R
 - 📫 How to reach me hembaenock@gmail.com
 
 <!---
